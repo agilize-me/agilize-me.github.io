@@ -3,15 +3,15 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Setup
-title:            Agilizeme
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Agilize.me
+tagline:          'Blog'
+description:      'IA para todos.'
 url:              https://agilize.me/blog
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Marcio Stabile'
+  url:            https://twitter.com/Marcio_Stabile
 
 paginate:         5
 
@@ -19,4 +19,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/agilize-me
