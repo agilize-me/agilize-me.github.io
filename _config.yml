@@ -5,7 +5,7 @@ highlighter:      pygments
 # Setup
 title:            Agilize.me
 tagline:          'Blog'
-description:      'IA para todos.'
+description:      'Inteligência Artificial para todos.'
 url:              https://agilize.me/blog
 baseurl:          /
 
