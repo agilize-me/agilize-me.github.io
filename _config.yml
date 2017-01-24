@@ -9,9 +9,15 @@ description:      'Inteligência Artificial para todos.'
 url:              https://agilize.me/blog
 baseurl:          /
 
-author:
-  name:           'Marcio Stabile'
-  url:            https://twitter.com/Marcio_Stabile
+authors:
+  marcio:
+    name: 'Marcio Stabile'
+    display_name: 'Marcio Stabile'
+    gravatar: c66919cb194f96c696c1da0c47354a6a
+    url: https://github.com/mfstabile
+  barbara:
+    name: Barbara Tieko Agena
+    display_name: Barbara Tieko
 
 paginate:         5
 
