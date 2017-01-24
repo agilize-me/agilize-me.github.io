@@ -17,11 +17,10 @@ published: true
     <span class="post-date">{{ post.date | date_to_string }} por {{ author.display_name }} </span>
 
     {{ post.excerpt }}
-  </div>
-  
-  <a href="{{ post.url }}">
+	<a href="{{ post.url }}">
         Leia mais
       </a>
+  </div>
   {% endfor %}
 </div>
 
