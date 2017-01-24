@@ -2,7 +2,7 @@
 layout: post
 title: Example content
 published: true
-author: marcio
+author: barbara
 ---
 
 
