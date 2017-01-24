@@ -16,7 +16,7 @@ published: true
 
     <span class="post-date">{{ post.date | date_to_string }} por {{ author.display_name }} </span>
 
-    {{ post.content | 20 }}
+    {{ post.content | strip_html | truncatewords:30 }}
   </div>
   {% endfor %}
 </div>
