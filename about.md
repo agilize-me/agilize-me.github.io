@@ -1,30 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre
+published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Este blog é pensado por nós da Agilize.me para mostrar para você as coisas legais que descobrimos.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Aqui nós postaremos artigos sobre desenvolvimento de software, novas tecnologias, frameworks, técnicas, algoritmos, e acima de tudo, Inteligência Artificial. Nossa cultura de incentivar a pesquisa nos traz muitas descobertas e achamos que compartilhá-las com você é fundamental.
 
-There are currently two themes built on Poole:
+Nossa equipe é formada por cientistas da computação que acreditam que não se faz computação sem ciência. Para nós, pesquisa e inovação deveriam ser parte do dia a dia das empresas pois a computação não se trata de escever código, mas sim de resolver problemas. E que para resolver os problemas da melhor maneira possível, é necessário conhecimento. Nosso objetivo é nos tornarmos cientistas da computação cada vez melhores e queremos compartilhar nossa jornada com você.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Leia nossos artigos e nos diga o que acha deles. Te esperamos nas seções de comentários.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Boa leitura!
