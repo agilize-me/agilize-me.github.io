@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inauguração do Blog
+title: Teste de Inauguração do Blog
 published: true
 author: marcio
 comments: true
