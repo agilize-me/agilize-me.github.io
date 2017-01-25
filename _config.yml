@@ -10,13 +10,16 @@ baseurl:          /
 
 authors:
   marcio:
-    name: 'Marcio Stabile'
+    name: 'Marcio Fernando Stabile Junior'
     display_name: 'Marcio Stabile'
     gravatar: c66919cb194f96c696c1da0c47354a6a
     url: https://github.com/mfstabile
   barbara:
     name: Barbara Tieko Agena
     display_name: Barbara Tieko
+  thiago:
+    name: Thiago Henrique Dias Araújo
+    display_name: Thiago Araújo
 
 paginate:         5
 
