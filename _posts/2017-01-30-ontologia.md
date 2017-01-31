@@ -39,15 +39,40 @@ uma estrutura de informação entre pessoas ou agentes de software.
 
 Ok, mas ainda está na dúvida de como as ontologias funcionam? Ou para o que elas servem?
 
+
 ---
 **2 - Aplicações**
 
-- Taxonomia 
+Segue algumas possíveis aplicações utilizando ontologias.
+
+- Construção de Taxonomia
+
 	A taxonomia é o processo de classificar indivíduos em grupos
+    
+![taxonomia.jpg]({{site.baseurl}}/_posts/taxonomia.jpg)
+
+- Catálogo de e-commerce
+
+![amazoncatalog.png]({{site.baseurl}}/_posts/amazoncatalog.png)
+
+- Representação de conhecimento para agentes inteligentes
+
+As ontologias são uma ferramenta para representação dos fatos sobre o mundo para agentes baseados em conhecimento. Através de uma ontologia geral é possível organizar tudo no mundo do agente em uma hierarquia de categorias.
+
+![agentes.jpg]({{site.baseurl}}/_posts/agentes.jpg)
+
+- [Livro didático inteligente](http://inquireproject.com)
+
+Livros didáticos sobre biologia, física e química muitas vezes são complexos e intimidadores.
+Inquire Biology é um livro eletrônico para Ipad que possui uma rica base de conhecimento biológica retirada de um famoso livro didático. Enquanto o aluno lê o livro usando Inquire, ele pode fazer perguntas referentes ao conteúdo do livro e o sistema é capaz de respondê-las. Este novo conceito de livro inteligente visa melhorar o aprendizado do aluno e consequentemente seu desempenho nas disciplinas.
+
+![inquiretextbook.png]({{site.baseurl}}/_posts/inquiretextbook.png)
 
 
 ---
-**3 - Exemplo simples**
+** Curtiu? **
 
----
-**4 - Porque usar ontologias**
+Espero que com este post você possa ter entendindo um pouquinho do que são as ontologias. No próximo post vou te ensinar a construir uma ontologia simples. 
+
+Siga-nos no [Facebook](https://www.facebook.com/agilize.me/) ou no [Twitter](https://twitter.com/agilize_me). =D
+
