@@ -35,6 +35,8 @@ Uma ontologia é uma descrição explícita de um domínio, definindo:
 Além de definir um vocabulário comum e compartilhar o entendimento comum sobre
 uma estrutura de informação entre pessoas ou agentes de software.
 
+![ontopizza.png]({{site.baseurl}}/_posts/ontopizza.png)
+
 
 
 Ok, mas ainda está na dúvida de como as ontologias funcionam? Ou para o que elas servem?
@@ -75,4 +77,3 @@ Inquire Biology é um livro eletrônico para Ipad que possui uma rica base de co
 Espero que com este post você possa ter entendindo um pouquinho do que são as ontologias. No próximo post vou te ensinar a construir uma ontologia simples. 
 
 Siga-nos no [Facebook](https://www.facebook.com/agilize.me/) ou no [Twitter](https://twitter.com/agilize_me). =D
-
