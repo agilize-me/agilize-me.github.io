@@ -2,7 +2,6 @@
 published: true
 layout: post
 comments: true
-autor: barbara
 title: Você já ouviu falar de ontologias?
 author: barbara
 ---
