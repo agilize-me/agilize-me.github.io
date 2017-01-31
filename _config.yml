@@ -6,7 +6,7 @@ title:            Agilize.me
 tagline:          'Blog'
 description:      'Inteligência Artificial para todos.'
 url:              https://blog.agilize.me/
-baseurl:          https://github.com/agilize-me/agilize-me.github.io
+baseurl:          "/agilize-me.github.io
 
 authors:
   marcio:
