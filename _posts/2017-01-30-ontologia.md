@@ -8,7 +8,7 @@ author: barbara
 Se você não faz ideia do que são ontologias ou se não sabe ao certo o que elas fazem
 então este post vai te ajudar a entender melhor esse conceito.
 
-![Taxonomies.jpg]({{site.url}}/assets/Taxonomies.jpg)
+![Taxonomies.jpg]({{site.url}}/assets/Ontologias/Taxonomies.jpg)
 
 
 
@@ -34,7 +34,7 @@ Uma ontologia é uma descrição explícita de um domínio, definindo:
 Além de definir um vocabulário comum e compartilhar o entendimento comum sobre
 uma estrutura de informação entre pessoas ou agentes de software.
 
-![ontopizza.png]({{site.baseurl}}/_posts/images/ontopizza.png)
+![ontopizza.png]({{site.url}}/assets/Ontologias/ontopizza.png)
 
 
 
@@ -50,24 +50,24 @@ Segue algumas possíveis aplicações utilizando ontologias.
 
 	A taxonomia é o processo de classificar indivíduos em grupos
 
-![taxonomia.jpg]({{site.baseurl}}/_posts/images/taxonomia.jpg)
+![taxonomia.jpg]({{site.url}}/assets/Ontologias/taxonomia.jpg)
 
 - Catálogo de e-commerce
 
-![amazoncatalog.png]({{site.baseurl}}/_posts/images/amazoncatalog.png)
+![amazoncatalog.png]({{site.url}}/assets/Ontologias/amazoncatalog.png)
 
 - Representação de conhecimento para agentes inteligentes
 
 As ontologias são uma ferramenta para representação dos fatos sobre o mundo para agentes baseados em conhecimento. Através de uma ontologia geral é possível organizar tudo no mundo do agente em uma hierarquia de categorias.
 
-![agentes.jpg]({{site.baseurl}}/_posts/images/agentes.jpg)
+![agentes.jpg]({{site.url}}/assets/Ontologias/agentes.jpg)
 
 - [Livro didático inteligente](http://inquireproject.com)
 
 Livros didáticos sobre biologia, física e química muitas vezes são complexos e intimidadores.
 Inquire Biology é um livro eletrônico para Ipad que possui uma rica base de conhecimento biológica retirada de um famoso livro didático. Enquanto o aluno lê o livro usando Inquire, ele pode fazer perguntas referentes ao conteúdo do livro e o sistema é capaz de respondê-las. Este novo conceito de livro inteligente visa melhorar o aprendizado do aluno e consequentemente seu desempenho nas disciplinas.
 
-![inquiretextbook.png]({{site.baseurl}}/_posts/images/inquiretextbook.png)
+![inquiretextbook.png]({{site.url}}/assets/Ontologias/inquiretextbook.png)
 
 
 ---
