@@ -6,13 +6,12 @@ title:            Agilize.me
 tagline:          'Blog'
 description:      'Inteligência Artificial para todos.'
 url:              https://agilize.me/blog
-baseurl:          /
+baseurl:          https://github.com/agilize-me/agilize-me.github.io
 
 authors:
   marcio:
     name: 'Marcio Fernando Stabile Junior'
     display_name: 'Marcio Stabile'
-    gravatar: c66919cb194f96c696c1da0c47354a6a
     url: https://github.com/mfstabile
   barbara:
     name: Barbara Tieko Agena
