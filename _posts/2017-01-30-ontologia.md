@@ -6,8 +6,6 @@ comments: true
 autor: barbara
 title: Você já ouviu falar de ontologias?
 ---
-## ** Você já ouviu falar de ontologias?**
-
 Se você não faz ideia do que são ontologias ou se não sabe ao certo o que elas fazem
 então este post vai te ajudar a entender melhor esse conceito.
 
