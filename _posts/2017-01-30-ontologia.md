@@ -72,7 +72,7 @@ Inquire Biology é um livro eletrônico para Ipad que possui uma rica base de co
 
 
 ---
-** Curtiu? **
+**Curtiu?**
 
 Espero que com este post você possa ter entendindo um pouquinho do que são as ontologias. No próximo post vou te ensinar a construir uma ontologia simples.
 
