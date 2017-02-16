@@ -2,7 +2,7 @@
 published: true
 layout: post
 comments: true
-title: Aumente o faturamento de sua empresa com Data Science e IA
+title: Como Aumentar suas Vendas usando Data Science e IA
 author: thiago
 ---
 
@@ -26,25 +26,7 @@ Veja alguns exemplos de como cortar os custos e aumentar as vendas e os lucros
 do seu negócio através do uso de Data Science.
 
 ---
-
-## Diminuir Custos
-
-Quem já usou o Waze ou o Google Maps sabe como é bom saber a melhor rota até um
-determinado destino. Mas e se uma empresa tem necessidade de fazer entregas em
-diversos lugares, qual seria a melhor rota? Talvez a rota mais curta, ou talvez
-a mais rápida. Depende do tipo de entrega e do tipo de produto.
-
-E se eu quiser diminuir os custos com mão-de-obra, ou produzir algum produto de
-maneira mais eficiente, ou preciso cortar os gastos com logística?
-
-Esses tipos de problemas são da área de Otimização, e existem diversas técnicas
-que podem resolver essa classe de problemas. Desde algoritmos simples que
-otimizam os custos com mão-de-obra, insumos e custos variáveis, até problemas
-mais complexos, como a otimização de toda a cadeia de produção de uma fábrica
-de automóveis.
-
----
-## Aumentar Vendas
+## Aumentar as Vendas
 
 Quantos usuários entram em seu site e se tornam clientes? E quantos entram e
 não compram nada? A taxa de conversão serve para medir isso. É também possível
@@ -69,6 +51,23 @@ e o tipo de produto, fica fácil sugerir outros produtos ou serviços que també
 se adequem a esse consumidor.
 
 ![drone.jpg]({{site.url}}/assets/img/drone.jpg)
+
+---
+## Diminuir os Custos
+
+Quem já usou o Waze ou o Google Maps sabe como é bom saber a melhor rota até um
+determinado destino. Mas e se uma empresa tem necessidade de fazer entregas em
+diversos lugares, qual seria a melhor rota? Talvez a rota mais curta, ou talvez
+a mais rápida. Depende do tipo de entrega e do tipo de produto.
+
+E se eu quiser diminuir os custos com mão-de-obra, ou produzir algum produto de
+maneira mais eficiente, ou preciso cortar os gastos com logística?
+
+Esses tipos de problemas são da área de Otimização, e existem diversas técnicas
+que podem resolver essa classe de problemas. Desde algoritmos simples que
+otimizam os custos com mão-de-obra, insumos e custos variáveis, até problemas
+mais complexos, como a otimização de toda a cadeia de produção de uma fábrica
+de automóveis.
 
 ---
 ## Saber como seus clientes se sentem
@@ -101,7 +100,7 @@ demandas dos clientes de forma mais assertiva, além de investir preventivamente
 em retenção de clientes.
 
 ---
-## Prever o futuro
+## Prever o Futuro
 
 Qual característica de um produto ou serviço gera mais vendas ou assinaturas? E
 qual característica gera a maioria dos cancelamentos?
@@ -115,7 +114,7 @@ feita para diminuir as perdas com cancelamentos.
 ![idea.jpg]({{site.url}}/assets/img/idea.jpg)
 
 ---
-## Bancos de dados podem conter uma mina de ouro
+## A Mina de Ouro escondida em seu Banco de Dados
 
 Quando sua empresa possui uma quantidade grande de dados sobre vendas,
 interações com usuário, produtividade, é possível encontrar fatores que poderiam
@@ -135,10 +134,9 @@ A Inteligência Artificial e a área de Data Science trazem inúmeras vantagens
 competitivas para empresas no mundo todo. E também pode trazer benefícios para
 a sua empresa, basta começar a aplicar essas idéias.
 
-Siga-nos no [Facebook](https://www.facebook.com/agilize.me/) ou no
-[Twitter](https://twitter.com/agilize_me) para receber mais dicas sobre IA e
-Data Science.
-
-Se tiver alguma dúvida ou quiser saber mais sobre como a
-[Agilize.me](http://www.agilize.me) pode ajudar a sua empresa a faturar mais,
-mande um email para [contato@agilize.me](mailto:contato@agilize.me).
+Se quiser que sua empresa fature mais e esteja sempre à frente no
+mercado, entre em contato com a [Agilize.me](http://www.agilize.me) pelo email
+[contato@agilize.me](mailto:contato@agilize.me) ou receba nossas novidades
+seguindo nossas redes sociais no
+[Facebook](https://www.facebook.com/agilize.me/) e no
+[Twitter](https://twitter.com/agilize_me).
