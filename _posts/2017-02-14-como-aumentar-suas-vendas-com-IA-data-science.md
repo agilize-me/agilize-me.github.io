@@ -61,11 +61,11 @@ diversos lugares, qual seria a melhor rota? Talvez a rota mais curta, ou talvez
 a mais rápida. Depende do tipo de entrega e do tipo de produto.
 
 E se eu quiser diminuir os custos com mão-de-obra, ou produzir algum produto de
-maneira mais eficiente, ou preciso cortar os gastos com logística?
+maneira mais eficiente, ou precisar cortar os gastos com logística?
 
 Esses tipos de problemas são da área de Otimização, e existem diversas técnicas
 que podem resolver essa classe de problemas. Desde algoritmos simples que
-otimizam os custos com mão-de-obra, insumos e custos variáveis, até problemas
+minimizam os custos com mão-de-obra, insumos e custos variáveis, até problemas
 mais complexos, como a otimização de toda a cadeia de produção de uma fábrica
 de automóveis.
 
@@ -79,7 +79,7 @@ como eles enxergam a sua empresa usando uma técnica chamada
 Através da análise de posts no facebook, twitter, mensagens enviadas para o
 atendimento ou chamadas telefônicas, conseguimos descobrir como um cliente está
 se sentindo, qual a sua opinião sobre algum produto ou serviço, e qual a
-reputação de uma empresa.
+reputação da sua empresa na internet.
 
 Podemos dizer quantos clientes estão frustrados com o atendimento, quantos têm
 uma visão negativa/positiva sobre a sua empresa. Também podemos dizer quem
@@ -123,7 +123,7 @@ produtividade, através de [Mineração de Dados](https://pt.wikipedia.org/wiki/
 
 Podemos, por exemplo, saber qual estratégia de preços deve ser adotada para
 maximizar a quantidade de assinantes, ou analisar dados sazonais para encontrar
-padrões, e utilizar isso para guiar as ações da empresa
+padrões, e utilizar isso para guiar as ações futuras da empresa
 com o intuito de aumentar o faturamento ou melhorar a produtividade. Ou até
 mesmo diminuir o risco de novas ações, pois conhecendo melhor o mercado, os consumidores e os demais fatores que influenciam o resultado dessas ações, fica mais fácil saber se um novo produto ou uma nova estratégia vai gerar o resultado esperado.
 
@@ -132,7 +132,7 @@ mesmo diminuir o risco de novas ações, pois conhecendo melhor o mercado, os co
 
 A Inteligência Artificial e a área de Data Science trazem inúmeras vantagens
 competitivas para empresas no mundo todo. E também pode trazer benefícios para
-a sua empresa, basta começar a aplicar essas idéias.
+a sua empresa, basta não ficar para trás. Comece a aplicar essas idéias!
 
 Se quiser que sua empresa fature mais e esteja sempre à frente no
 mercado, entre em contato com a [Agilize.me](http://www.agilize.me) pelo email
