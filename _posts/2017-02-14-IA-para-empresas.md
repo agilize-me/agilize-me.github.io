@@ -25,8 +25,6 @@ fantásticos através do uso de Data Science.
 Veja alguns exemplos de como cortar os custos e aumentar as vendas e os lucros
 do seu negócio através do uso de Data Science.
 
-![drone.jpg]({{site.url}}/assets/img/drone.jpg)
-
 ---
 
 ## Diminuir Custos
@@ -70,6 +68,8 @@ complementares. Analisando o histórico de compras, a demanda, o preço
 e o tipo de produto, fica fácil sugerir outros produtos ou serviços que também
 se adequem a esse consumidor.
 
+![drone.jpg]({{site.url}}/assets/img/drone.jpg)
+
 ---
 ## Saber como seus clientes se sentem
 
@@ -112,6 +112,8 @@ determinar qual característica é fator determinante para que uma pessoa escolh
 cancelar um serviço. Com isso, o gestor consegue saber qual mudança deve ser
 feita para diminuir as perdas com cancelamentos.
 
+![idea.jpg]({{site.url}}/assets/img/idea.jpg)
+
 ---
 ## Bancos de dados podem conter uma mina de ouro
 
@@ -139,4 +141,4 @@ Data Science.
 
 Se tiver alguma dúvida ou quiser saber mais sobre como a
 [Agilize.me](http://www.agilize.me) pode ajudar a sua empresa a faturar mais,
-mande um email para [contato@agilize.me]('mailto:contato@agilize.me').
+mande um email para [contato@agilize.me](mailto:contato@agilize.me).
