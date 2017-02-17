@@ -2,7 +2,7 @@
 published: true
 layout: post
 comments: true
-title: Você já ouviu falar de ontologias?
+title: Você já ouviu falar em ontologias?
 author: barbara
 ---
 Se você não faz ideia do que são ontologias ou se não sabe ao certo o que elas fazem
