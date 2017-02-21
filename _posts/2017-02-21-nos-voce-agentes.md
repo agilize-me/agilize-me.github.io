@@ -11,7 +11,7 @@ author: marcio
 Quando se ouve a palavra "Agente", muitos se lembram de espionagem e missões secretas.
 Infelizmente, para a área de Inteligência Artificial, Agentes Inteligentes não pulam de prédios ou andam calmamente enquanto explosões acontecem atrás deles. Porém, são capazes de coisas ainda mais interessantes para nós que não lutamos contra organizações secretas.
 
-Um Agente Inteligente é qualquer coisa que sozinho consegue analizar a situação em que ele está e agir para atingir seu objetivo. Com isso, é possível deixar decisões menos importantes do seu dia-a-dia para que sejam tomadas automaticamente enquanto você se preocupa com o que realmente importa e se torna cada vez mais produtivo.
+Um Agente Inteligente é qualquer coisa que sozinho consegue analisar a situação em que ele está e agir para atingir seu objetivo. Com isso, é possível deixar decisões menos importantes do seu dia-a-dia para que sejam tomadas automaticamente enquanto você se preocupa com o que realmente importa e se torna cada vez mais produtivo.
 
 Muitos especialistas estão apontando a área de agentes como uma das próximas áreas de destaque na computação (veja
 [aqui](http://www.techradar.com/news/world-of-tech/future-tech/goodbye-apps-hello-smart-agents-are-you-ready-for-the-post-app-world-1309611)). Com o uso de Agentes, vamos parar de perder tempo dizendo aos computadores exatamente como fazer as coisas e vamos simplesmente dizer o que queremos que eles façam. Eles devem então estar preparados para atender nossas solicitações e desempenhá-las da melhor maneira possível.
@@ -25,7 +25,7 @@ A seguir, mostramos alguns exemplos de como será o futuro com o uso de Agentes 
 
 Hoje estão cada vez mais comuns os chamados "chatbots", que são programas que conversam com os usuários. Nesse modelo, o usuário entra em contato com a empresa, e um sistema interage com ele para solucionar a questão. Isso é bastante interessante para a empresa pois reduz a necessidade de um enorme call center, mas para o cliente, ainda será necessário fazer toda a interação com um sistema que nem sempre está preparado para lidar com todas as situações.
 
-Os agentes irão então funcionar como se fossem acessores. Você comunica ao agente que quer comprar algo, como uma passagem aérea, e ele busca na internet pelos melhores preços, datas e horários, podendo até mesmo negociar com outros agentes de companhias aéreas. Essa negociação poderia então ser realizada totalmente através dos sistemas, fazendo com que tanto o vendedor quanto o cliente tenham a certeza de terem feito o melhor negócio sem a necessidade de negociações exaustivas.
+Os agentes irão então funcionar como se fossem assessores. Você comunica ao agente que quer comprar algo, como uma passagem aérea, e ele busca na internet pelos melhores preços, datas e horários, podendo até mesmo negociar com outros agentes de companhias aéreas. Essa negociação poderia então ser realizada totalmente através dos sistemas, fazendo com que tanto o vendedor quanto o cliente tenham a certeza de terem feito o melhor negócio sem a necessidade de negociações exaustivas.
 
 Como uma propriedade muito importante nos agentes é a proatividade, será possível até que o agente monitore os itens da sua casa e vá fazendo compras para que não falte nada.
 
@@ -59,7 +59,7 @@ Agentes podem ser construídos com o objetivo de ganhar dinheiro. Uma maneira de
 
 Com o aumento de informações disponíveis na internet, é possível aprender praticamente qualquer coisa de forma autodidata. Isso não quer dizer, no entanto, que você não quer ser ajudado. Agentes podem, por exemplo, simular algumas das tarefas realizadas por professores.
 
-É possível que ao tentar aprender um idioma, você pergunte ao agente o significado de alguma palavra, ou tenha uma conversa com ele no idioma que você está aprendendo. Ao estudar matemática, você pode perguntar se seu cálculo está correto. Um agente pode também recomendar textos ou vídeos baseado naquiles que mais te ajudaram.
+É possível que ao tentar aprender um idioma, você pergunte ao agente o significado de alguma palavra, ou tenha uma conversa com ele no idioma que você está aprendendo. Ao estudar matemática, você pode perguntar se seu cálculo está correto. Um agente pode também recomendar textos ou vídeos baseado naqueles que mais te ajudaram.
 
 ---
 ## O futuro está próximo!
