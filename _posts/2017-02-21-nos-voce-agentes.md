@@ -45,7 +45,7 @@ Para desenvolver cada vez mais a área de agentes inteligentes, são realizadas 
 Agentes podem competir entre si mesmos ou até serem usados como ferramenta de treino por jogadores reais, possibilitando o teste e o aprimoramento de novas táticas para surpreender os oponentes.
 
 ---
-## Te deixando rico (ou pobre)
+## Te deixando rico
 
 Agentes podem ser construídos com o objetivo de ganhar dinheiro. Uma maneira de fazer isso é através de aplicações financeiras como ações, títulos públicos ou fundos de renda fixa. Um agente pode então ser construído para aplicar seu dinheiro, avaliando a situação da bolsa de valores, verificando a variação das ações e calculando como obter o máximo lucro.
 
