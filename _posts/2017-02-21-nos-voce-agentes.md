@@ -2,7 +2,7 @@
 published: true
 layout: post
 comments: true
-title: Nós, Você, Agentes: 4 coisas que os agentes inteligentes farão por você no futuro próximo!
+title: "Nós, Você, Agentes: 4 coisas que os agentes inteligentes farão por você no futuro próximo!"
 author: marcio
 ---
 
